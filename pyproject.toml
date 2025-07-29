@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
     "bertviz>=1.4.1",
+    "codontransformer>=1.6.7",
     "i>=2.1.0",
     "jupyter>=1.1.1",
     "torch>=2.7.1",
